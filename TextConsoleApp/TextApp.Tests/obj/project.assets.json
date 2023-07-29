@@ -882,6 +882,16 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
+      },
+      "TextApp.Lib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/TextApp.Lib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TextApp.Lib.dll": {}
+        }
       }
     }
   },
@@ -3844,6 +3854,11 @@
         "system.xml.xdocument.4.0.11.nupkg.sha512",
         "system.xml.xdocument.nuspec"
       ]
+    },
+    "TextApp.Lib/1.0.0": {
+      "type": "project",
+      "path": "../TextApp.Lib/TextApp.Lib.csproj",
+      "msbuildProject": "../TextApp.Lib/TextApp.Lib.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -3851,6 +3866,7 @@
       "Microsoft.NET.Test.Sdk >= 16.11.0",
       "NUnit >= 3.13.2",
       "NUnit3TestAdapter >= 4.0.0",
+      "TextApp.Lib >= 1.0.0",
       "coverlet.collector >= 3.1.0"
     ]
   },
@@ -3888,7 +3904,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\EPAM\\Project\\ConsoleApp\\ConsoleAppTest\\TextConsoleApp\\TextApp.Lib\\TextApp.Lib.csproj": {
+              "projectPath": "D:\\EPAM\\Project\\ConsoleApp\\ConsoleAppTest\\TextConsoleApp\\TextApp.Lib\\TextApp.Lib.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

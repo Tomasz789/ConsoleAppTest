@@ -1,0 +1,11 @@
+D:\EPAM\Project\ConsoleApp\ConsoleAppTest\TextConsoleApp\TextApp.Lib\bin\Debug\net6.0\TextApp.Lib.deps.json
+D:\EPAM\Project\ConsoleApp\ConsoleAppTest\TextConsoleApp\TextApp.Lib\bin\Debug\net6.0\TextApp.Lib.dll
+D:\EPAM\Project\ConsoleApp\ConsoleAppTest\TextConsoleApp\TextApp.Lib\bin\Debug\net6.0\ref\TextApp.Lib.dll
+D:\EPAM\Project\ConsoleApp\ConsoleAppTest\TextConsoleApp\TextApp.Lib\bin\Debug\net6.0\TextApp.Lib.pdb
+D:\EPAM\Project\ConsoleApp\ConsoleAppTest\TextConsoleApp\TextApp.Lib\obj\Debug\net6.0\TextApp.Lib.GeneratedMSBuildEditorConfig.editorconfig
+D:\EPAM\Project\ConsoleApp\ConsoleAppTest\TextConsoleApp\TextApp.Lib\obj\Debug\net6.0\TextApp.Lib.AssemblyInfoInputs.cache
+D:\EPAM\Project\ConsoleApp\ConsoleAppTest\TextConsoleApp\TextApp.Lib\obj\Debug\net6.0\TextApp.Lib.AssemblyInfo.cs
+D:\EPAM\Project\ConsoleApp\ConsoleAppTest\TextConsoleApp\TextApp.Lib\obj\Debug\net6.0\TextApp.Lib.csproj.CoreCompileInputs.cache
+D:\EPAM\Project\ConsoleApp\ConsoleAppTest\TextConsoleApp\TextApp.Lib\obj\Debug\net6.0\TextApp.Lib.dll
+D:\EPAM\Project\ConsoleApp\ConsoleAppTest\TextConsoleApp\TextApp.Lib\obj\Debug\net6.0\ref\TextApp.Lib.dll
+D:\EPAM\Project\ConsoleApp\ConsoleAppTest\TextConsoleApp\TextApp.Lib\obj\Debug\net6.0\TextApp.Lib.pdb
